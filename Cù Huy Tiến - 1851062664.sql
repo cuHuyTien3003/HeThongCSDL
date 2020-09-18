@@ -267,4 +267,3 @@ where  s.MaTL = tl.MaTL
 group by tl.MaTL
 
 
-cncdjcdkcksskvdkvmdsmkvsvkdvmkdsvmkkdv
